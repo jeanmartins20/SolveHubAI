@@ -10,7 +10,7 @@
         {
             "provider": "google",
             "api_key": "COLOQUE_SUA_CHAVE_GOOGLE_GEMINI_AQUI",
-            "model": "gemini-1.5-flash",
+            "model": "gemini-2.5-flash",
             "instructions": "Obtenha sua chave em: https://aistudio.google.com/app/apikey"
         },
         {
