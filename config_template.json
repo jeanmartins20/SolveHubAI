@@ -1,0 +1,23 @@
+{
+    "API_KEYS": {
+        "web_search_api_key": "COLOQUE_SUA_CHAVE_SERPAPI_AQUI"
+    },
+    "FRESHDESK": {
+        "api_key": "COLOQUE_SUA_CHAVE_FRESHDESK_AQUI",
+        "domain": "seudominio.freshdesk.com"
+    },
+    "AI_PROVIDERS": [
+        {
+            "provider": "google",
+            "api_key": "COLOQUE_SUA_CHAVE_GOOGLE_GEMINI_AQUI",
+            "model": "gemini-1.5-flash",
+            "instructions": "Obtenha sua chave em: https://aistudio.google.com/app/apikey"
+        },
+        {
+            "provider": "openai",
+            "api_key": "COLOQUE_SUA_CHAVE_OPENAI_AQUI",
+            "model": "gpt-4o",
+            "instructions": "Obtenha sua chave em: https://platform.openai.com/api-keys"
+        }
+    ]
+}
